@@ -587,3 +587,14 @@ popular:
         url: https://github.com/apache/incubator-pulsar
       - text: "Latest version in Maven Central"
         url: https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.apache.pulsar%22
+  goworker:
+    name: Goworker
+    summary: "goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers."
+    url: https://www.goworker.org/
+    tags:
+      - go
+      - ruby
+      - redis
+    links:
+      - text: "Goworker Examples"
+        url: https://github.com/benmanns/goworker-examples
