@@ -619,3 +619,23 @@ popular:
     links:
       - text: "Goworker Examples"
         url: https://github.com/benmanns/goworker-examples
+  emitter:
+    name: Emitter
+    summary: "High performance, distributed and low latency publish-subscribe platform."
+    url: https://github.com/emitter-io/emitter
+    tags:
+      - go
+      - java
+      - javascript
+      - typescript
+      - .NET
+      - C#
+      - python
+    links:
+      - text: "Emitter Documentation"
+        url: https://emitter.io/develop/what-is-emitter/
+      - text: "Emitter Features"
+        url: https://emitter.io/features/
+      - text: "Emitter Demos"
+        url: https://emitter.io/develop/html5-chat/
+
